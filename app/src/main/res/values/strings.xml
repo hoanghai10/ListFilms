@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoAnAndroid</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="u2023">‣</string>
+    <string name="watchlist">watchlist</string>
+</resources>
